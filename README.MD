@@ -1,4 +1,3 @@
-<--------------------------------------------------README-------------------------------------------------->
 The program can be compiled using the 'make' command.
 The program can then be run using './findcomp [arguments]'.
 
@@ -18,5 +17,3 @@ The inputFile is required and must be specifed last.
 Output images will be generated in the directory.
 
 The 'make clean' command can be run to clean the .o and findcomp files.
-
-<---------------------------------------------------------------------------------------------------------->

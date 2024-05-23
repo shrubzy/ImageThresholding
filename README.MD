@@ -1,4 +1,13 @@
-The program can be compiled using the 'make' command.
+# Description
+A program that uses thresholding to identify the components of a PGM image.  
+
+# Install
+Download the files in the repository.  
+
+# Compile
+The program is compiled using the 'make' command.  
+
+# Run  
 The program can then be run using './findcomp [arguments]'.
 
 An example command would be:
@@ -16,4 +25,5 @@ The inputFile is required and must be specifed last.
 
 Output images will be generated in the directory.
 
+# Clean  
 The 'make clean' command can be run to clean the .o and findcomp files.
